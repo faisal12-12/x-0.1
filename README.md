@@ -8,7 +8,7 @@ Advanced To-Do is a daily dashboard that keeps everyday information visible with
 
 ## Current state
 
-- **Frontend:** complete static dashboard in `frontend/`. It runs on demo data and includes the live clock, date, category filters, sorting, keyboard navigation, and command bar.
+- **Frontend:** all thanks to ( https://www.linkedin.com/in/chathurajay/) for complete static dashboard in `frontend/`. It runs on demo data and includes the live clock, date, category filters, sorting, keyboard navigation, and command bar.
 - **Backend:** skeleton only in `backend/`. Each module contains a docstring describing what it will do and which endpoints it will serve. No dependencies are installed yet.
 
 ## Project structure
